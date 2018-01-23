@@ -4,7 +4,7 @@
 
 #### By _**Mike B Lambert**_
 
-![picture](img/screenShot.jpg)
+![Screenshot](./img/screenShot.jpg)
 
 ## Description
 
